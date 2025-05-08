@@ -2,7 +2,7 @@
 
 ---
 
-<div align="center">Welcome to the official repository for my interactive ToDo List application!  
+<div align="center">Welcome to the 2nd version of repository for S.D.Nil's interactive ToDo List application!  
 A clean, efficient task management solution built Typeswift.</div>
 
 ---
